@@ -1,0 +1,9 @@
+首页：http://vueshop.glbuys.com
+商品分类：http://vueshop.glbuys.com/goods/classify
+商品详情：http://vueshop.glbuys.com/goods/info/info_content?aid=143208071&type=0&uid=696443691
+购物车：http://vueshop.glbuys.com/home/cart
+会员中心：http://vueshop.glbuys.com/home/user
+会员注册：http://vueshop.glbuys.com/reg/index
+会员登录：http://vueshop.glbuys.com/login/index
+个人资料：http://vueshop.glbuys.com/user/profile
+收货地址管理：http://vueshop.glbuys.com/user/address

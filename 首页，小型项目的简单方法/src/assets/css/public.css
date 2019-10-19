@@ -1,0 +1,22 @@
+html,body{
+    font-family: Arial;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin:0;
+    padding:0;
+}
+ul,li{margin:0;padding:0;list-style: none}
+input,button{border:0 none;border-radius: 0px;outline:none;}
+.loading{
+    background-image: url("../images/common/load.gif");
+    background-size: 100%;
+    background-position: center;
+    width:0.6rem;
+    height: 0.6rem;
+    position:fixed;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    z-index:10;
+    display: none;
+}
